@@ -21,7 +21,7 @@ No build step, package manager, backend, or API key is required.
 - In-scope / out-of-scope statements, assumptions and risks
 - Live dashboard with effort, duration, estimate and completeness indicators
 - Draft SOW / proposal preview and browser print-to-PDF
-- JSON project export
+- JSON project export and import
 - Automatic local browser storage
 
 ## Currency note
@@ -30,7 +30,7 @@ USD is the default display currency. INR, GBP and EUR are also available. Changi
 
 ## Data and privacy
 
-This is a standalone front-end MVP. Project data is stored in the current browser using localStorage and is not sent to a server. Clearing browser site data may remove the saved project. Use **Export JSON** to keep a portable backup. There is no user authentication, shared database, or multi-user collaboration in this version.
+This is a standalone front-end MVP. Project data is stored in the current browser using localStorage and is not sent to a server. Clearing browser site data may remove the saved project. Use **Export JSON** to keep a portable backup and **Import JSON** to restore it. There is no user authentication, shared database, or multi-user collaboration in this version.
 
 ## Disclaimer
 
